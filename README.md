@@ -44,17 +44,17 @@ from scipy.stats import ttest_ind, mannwhitneyu, stats'
 
 ### Installation
 Steps to install notebooks:
-    * Open github [repository](https://github.com/killerpennywise/project-1).
-    * Click green code button.
-    * Scroll down to download zip file.
-    * Open local downloads folder and right click *project-1-main.zip* file.
-    * Click and extract all to desired location.
-    * Open newly extracted **project-1-main** folder.
-    * Select desired notebook to run.
+* Open github [repository](https://github.com/killerpennywise/project-1).
+* Click green code button.
+* Scroll down to download zip file.
+* Open local downloads folder and right click *project-1-main.zip* file.
+* Click and extract all to desired location.
+* Open newly extracted **project-1-main** folder.
+* Select desired notebook to run.
 
 ### Usage
 To run a notebook simply click on the run all button at the top of the user's desired IDE or text editor.
-!('Resources/usage.png')
+![Run Notebook](./Resources/usage.png)
 
 ## Results and Approach
 The following section covers the summary and results of the 
