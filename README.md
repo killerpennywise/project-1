@@ -36,10 +36,10 @@ This section list the dependencies for the project and
 how to install the notebooks.
 
 ### Dependencies
-`import pandas as pd \
-import numpy as np \
-import matplotlib.pyplot as plt \
-import seaborn as sns \
+`import pandas as pd <br>
+import numpy as np <br>
+import matplotlib.pyplot as plt <br>
+import seaborn as sns <br>
 from scipy.stats import ttest_ind, mannwhitneyu, stats`
 
 ### Installation
