@@ -36,11 +36,11 @@ This section list the dependencies for the project and
 how to install the notebooks.
 
 ### Dependencies
-'import pandas as pd
+`import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
-from scipy.stats import ttest_ind, mannwhitneyu, stats'
+from scipy.stats import ttest_ind, mannwhitneyu, stats`
 
 ### Installation
 Steps to install notebooks:
@@ -54,7 +54,7 @@ Steps to install notebooks:
 
 ### Usage
 To run a notebook simply click on the run all button at the top of the user's desired IDE or text editor.
-![Run Notebook](./Resources/usage.png)
+![Run Notebook](./main/Resources/usage.png)
 
 ## Results and Approach
 The following section covers the summary and results of the 
